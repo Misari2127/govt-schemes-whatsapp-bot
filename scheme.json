@@ -1,0 +1,13 @@
+{
+  "pm kisan": {
+    "description": "PM Kisan provides ₹6000 per year to farmers in 3 installments.",
+    "eligibility": "Small and marginal farmers",
+    "benefits": "₹2000 every 4 months"
+  },
+
+  "ayushman bharat": {
+    "description": "Health insurance scheme providing ₹5 lakh cover.",
+    "eligibility": "Low-income families",
+    "benefits": "Cashless hospital treatment"
+  }
+}
